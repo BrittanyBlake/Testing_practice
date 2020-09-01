@@ -27,7 +27,7 @@
     <img src="https://banner2.cleanpng.com/20180605/ekx/kisspng-javascript-responsive-web-design-programmer-5b16edb4e41b02.4855169215282293009343.jpg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">To Do List</h3>
+  <h3 align="center">Testing Practice</h3>
 
   <p align="center">
     This is project was designed to practice about testing in Javascript. 
