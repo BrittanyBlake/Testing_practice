@@ -1,0 +1,24 @@
+{
+  "name": "Testing_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrittanyBlake/Testing_practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrittanyBlake/Testing_practice/issues"
+  },
+  "homepage": "https://github.com/BrittanyBlake/Testing_practice#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.11.5",
+    "jest": "^26.4.2"
+  }
+}
