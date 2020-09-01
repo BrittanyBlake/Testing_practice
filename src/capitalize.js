@@ -3,5 +3,4 @@ const capitalize = (string) => {
   return firstLetter + string.slice(1);
 };
 
-
 module.exports = capitalize;
