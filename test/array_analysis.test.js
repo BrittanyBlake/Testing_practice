@@ -8,3 +8,12 @@ test("it should analyze an array of numbers", () => {
         length: 5
     })
 });
+
+test("it should analyze an array of one number", () => {
+  expect(analyze([3])).toEqual({
+    avg: 3,
+    min: 3,
+    max: 3,
+    length: 1,
+  });
+});
